@@ -17,6 +17,7 @@ Gõ lệnh *git clone git@github.com:trucanhtran/Olist_BI.git*
 - ![image](https://user-images.githubusercontent.com/60055231/148750027-8c292966-f735-42a8-9a93-6322c68d5966.png)
 => Lưu ý không dùng nhánh master
 - Tạo nhánh mới với lệnh *git branch <tên nhánh mới>*
+- Chuyển sang nhánh mới tạo với *git checkout <tên nhánh>*
 ## Step 5: Đẩy dữ liệu lên github gõ
 - *git status*
 - *git add .* => để add toàn bộ
