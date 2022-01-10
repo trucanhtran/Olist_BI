@@ -1,7 +1,9 @@
 # Olist_BI
 ## Step 1:
-Tạo thư mục mới
+Cài đặt git: <https://gitforwindows.org/>
+Vào Command Promt gõ *git --version* để kiểm tra cài đặt:
+![Uploading image.png…]()
 ## Step 2
-Vào command promt gõ lệnh *cd* ***my Project***
+Tạo thư mục mới, vào command promt gõ lệnh *cd* ***My Project***
 ## Step 3
-gõ lệnh git clone
+gõ lệnh git clone git@github.com:trucanhtran/Olist_BI.git
